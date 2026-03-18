@@ -1,6 +1,3 @@
-// Question 7:
-// Create a simple quiz application using OOP that allows users to play and view their score.
-
 import 'dart:io';
 
 class Question {
